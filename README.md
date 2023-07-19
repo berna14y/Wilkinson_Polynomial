@@ -15,7 +15,8 @@ where 'e' represents a small perturbation term. The purpose of adding this term 
 The Wilkinson polynomial is primarily used to test the accuracy and stability of polynomial root-finding algorithms. Due to the close proximity of its roots, it can be difficult for some methods to accurately determine all the roots or to handle the polynomial's behavior near the double root at x = 20.
 
 
-I calculates and perturbs the coefficients of the Wilkinson polynomial, then computes the roots for different perturbation levels (epsilon values). Finally, it extracts the real and imaginary parts of the roots and plots them on a scatter plot.
+
+In this work, i calculate and perturb the coefficients of the Wilkinson polynomial, then computes the roots for different perturbation levels (epsilon values). Finally, it extracts the real and imaginary parts of the roots and plots them on a scatter plot.
 
 After perturbing the coefficients of the Wilkinson polynomial, i observe changes in the roots of the polynomial. The perturbation introduces small variations to the coefficients, which affects the locations of the roots.
 
