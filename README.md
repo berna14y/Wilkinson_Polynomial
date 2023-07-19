@@ -1,4 +1,4 @@
-# Wilkinson_Polynomial
+# Wilkinson Polynomial
 
 In numerical analysis, the Wilkinson polynomial typically refers to a specific polynomial that serves as a well-known test case for polynomial root-finding algorithms. It was introduced by James H. Wilkinson, a prominent mathematician and computer scientist.
 
